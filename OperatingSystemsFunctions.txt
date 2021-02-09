@@ -2,3 +2,7 @@ Operating Systems have to monitor how the hardware is performing.
 They can montor how fast ig takes to open an application or have to run a test to determine wy it would fail to open.
 You can view these tests in your computer settings.
 Info on run times and fialures acan help when troubleshooting
+Another use would be file management.
+Obviously this can be used to help organize all your files.
+You would be using this with directories or could be using a file system
+

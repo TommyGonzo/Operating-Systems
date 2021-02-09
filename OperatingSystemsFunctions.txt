@@ -1,0 +1,4 @@
+Operating Systems have to monitor how the hardware is performing.
+They can montor how fast ig takes to open an application or have to run a test to determine wy it would fail to open.
+You can view these tests in your computer settings.
+Info on run times and fialures acan help when troubleshooting

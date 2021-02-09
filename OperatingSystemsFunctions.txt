@@ -5,4 +5,6 @@ Info on run times and fialures acan help when troubleshooting
 Another use would be file management.
 Obviously this can be used to help organize all your files.
 You would be using this with directories or could be using a file system
-
+The operating system can also manage the security of the device.
+This can be something like only allowing access to authorized personel. 
+Also could be determing if certain applications possess any security threats and what specific threats they possess.
